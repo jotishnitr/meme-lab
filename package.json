@@ -1,4 +1,13 @@
 {
+  "homepage": "https://jotishnitr.github.io/meme-lab",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
+{
   "name": "meme-generator",
   "private": true,
   "version": "0.0.0",
