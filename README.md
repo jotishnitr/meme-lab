@@ -20,6 +20,27 @@
 
 ---
 
+## 🌐 Live Demo
+
+<div align="center">
+
+### 🚀 Try MEME_LAB Live
+
+<a href="https://memelab-taupe.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/OPEN_MEME_LAB-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+</a>
+
+<br><br>
+
+🔗 https://memelab-taupe.vercel.app/
+
+*No installation. No sign-up. Open the link and start creating memes instantly.*
+
+</div>
+
+
+---
+
 ## ⚡ What is MEME_LAB?
 
 MEME_LAB is a **browser-based meme creation studio** — no accounts, no servers, no nonsense. Pick a template, slap some text on it, download it, and send it to your group chat. Your meme history lives in your browser and goes nowhere else.
